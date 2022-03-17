@@ -1,7 +1,10 @@
 {
     "java.project.sourcePaths": [
+        "String",
         "Sorting",
+        "Recursion",
+        "Patterns",
         "Binary_Search",
-        "Patterns"
+        "OOPS"
     ]
 }

@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class AlgoBubble {
     public static void main(String[] args) {
-        int[] arr = {-10,-5,11,0,5,4,1,3,2};
+        int[] arr = {2,0,2,1,1,0};
         BubbleSort(arr);
         System.out.println(Arrays.toString(arr));
         
